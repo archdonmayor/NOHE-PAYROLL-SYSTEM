@@ -1,0 +1,25 @@
+# Environment files and secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules/
+**/node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Confidential payroll files
+backend/uploads/
+backend/processed_payslips/
+
+# Local editor settings
+.vscode/
+.DS_Store
+Thumbs.db
