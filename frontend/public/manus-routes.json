@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Sign in"},{"path":"/dashboard","title":"Overview"},{"path":"/employees","title":"Employees"},{"path":"/pending-employees","title":"Pending employees"},{"path":"/missing-payroll","title":"Missing from payroll"},{"path":"/upload","title":"Upload payroll"},{"path":"/reports","title":"Reports"}]}

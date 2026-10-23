@@ -67,11 +67,7 @@ function UploadPayroll() {
   };
 
   return (
-    <div
-      style={{
-        padding: "20px"
-      }}
-    >
+    <div className="page">
       <h1>
         Upload Payroll PDF
       </h1>

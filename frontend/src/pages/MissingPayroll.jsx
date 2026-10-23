@@ -57,7 +57,7 @@ function MissingPayroll() {
   if (loading) {
 
     return (
-      <div style={{ padding: "20px" }}>
+      <div className="page">
 
         <h1>
           Missing From Payroll
@@ -75,7 +75,7 @@ function MissingPayroll() {
 
   return (
 
-    <div style={{ padding: "20px" }}>
+    <div className="page">
 
       <h1>
         Missing From Payroll
