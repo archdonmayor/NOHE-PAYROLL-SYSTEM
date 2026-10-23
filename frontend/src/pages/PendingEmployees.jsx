@@ -118,7 +118,7 @@ function PendingEmployees() {
 
   if (loading) {
     return (
-      <div style={{ padding: "20px" }}>
+      <div className="page">
         <h1>Pending Employees</h1>
         <p>Loading...</p>
       </div>
@@ -126,7 +126,7 @@ function PendingEmployees() {
   }
 
   return (
-    <div style={{ padding: "20px" }}>
+    <div className="page">
 
       <h1>Pending Employees</h1>
 

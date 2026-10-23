@@ -44,7 +44,7 @@ function Reports() {
 
   if (loading) {
     return (
-      <div style={{ padding: "20px" }}>
+      <div className="page">
         <h1>Payroll Reports</h1>
         <p>Loading...</p>
       </div>
@@ -52,7 +52,7 @@ function Reports() {
   }
 
   return (
-    <div style={{ padding: "20px" }}>
+    <div className="page">
 
       <h1>Payroll Processing Reports</h1>
 

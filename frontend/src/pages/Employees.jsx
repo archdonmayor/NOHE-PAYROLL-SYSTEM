@@ -202,7 +202,7 @@ await axios.delete(
 
   return (
 
-    <div style={{ padding: "20px" }}>
+    <div className="page">
 
       <div
         style={{
